@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+h1 {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+</style>
+</head>
+<body>
+
+<p>You can change the default colors of links</p>
+
+
+
+</body>
+</html>
