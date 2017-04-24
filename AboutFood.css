@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+
+/*nav li
+{
+
+	display: inline;
+		text-decoration: none;
+		font-size: 24px;
+
+}*/
+body{
+ background-color: #f2ffe6;
+ font-family:'Roboto';
+
+}
+.container
+{
+	background-color: #e6faff;
+}
+nav li{
+	display: inline;
+	margin: 10px;
+	font-size: 16px;
+	padding-right: 40px;
+	}
+nav li a{
+		text-decoration: none;
+	
+	}
+header p{
+		font-size: 16px;
+		text-decoration: none;
+		margin-top: 10px;	
+		
+	}
+	header{
+		background-color: red;
+		position: fixed;
+	}
+	header h1{
+		margin-top: 10px;
+	}
+
+.Content
+{
+margin-top: 120px;
+text-align: center;
+font-family:'Roboto';
+font-size: 30px;
+
+}
+
+.pay p img
+{
+ height: 500px;
+ width:1800px;
+
+}
+
+.emp ul
+
+{
+font-size: 20px;
+
+display: inline;
+text-decoration: none;	
+
+}
+
+.peer
+{
+margin-top: 50px;
+
+}
+
+.cuisene 
+{
+margin-top: 100px;
+
+
+}
+
+.cuisene ul li img
+{
+width:300px;
+height:200px;
+
+}
+
+.connect 
+{
+	background-color: black;
+	margin-top:20px;
+    color: white;
+    text-decoration: none;
+
+}
+.connect nav ul li
+{
+
+	color: white;
+}
