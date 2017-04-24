@@ -15,7 +15,7 @@
 }*/
 body{
  background-color: #f2ffe6;
- font-family:'Roboto';
+ font-family: 'Roboto', sans-serif;
 
 }
 .container
@@ -48,7 +48,7 @@ header p{
 
 .Content
 {
-margin-top: 120px;
+margin-top: 100px;
 text-align: center;
 font-family:'Roboto';
 font-size: 30px;
@@ -65,7 +65,7 @@ font-size: 30px;
 .emp ul
 
 {
-font-size: 20px;
+font-size: 30px;
 
 display: inline;
 text-decoration: none;	
@@ -87,7 +87,7 @@ margin-top: 100px;
 
 .cuisene ul li img
 {
-width:300px;
+	width:300px;
 height:200px;
 
 }
@@ -98,10 +98,18 @@ height:200px;
 	margin-top:20px;
     color: white;
     text-decoration: none;
+    
 
 }
-.connect nav ul li
+
+.connect ul li
 {
 
-	color: white;
+	font-size: 20px;
+}
+
+.wrapper
+{
+
+	font-size: 30px;
 }
