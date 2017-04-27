@@ -3,7 +3,7 @@
 {
 
     font-family: 'Lato', sans-serif;
-    color: black	;
+    color: black;
 
 
 }
@@ -37,37 +37,33 @@ header
 	background-color: red;
 	position: fixed;
 	font-family: 'Lato', sans-serif;
-  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
-    animation-name: example;
-    animation-duration: 4s;
+
 }
 
-.wrapper header h2
+.wrapper header h1
 {
-	margin-top: 00px;
+	margin-top: 10px;
 	font-family: cursive;
-	font-size: 40px;	
+	font-size: 30px;	
 		
 }
 
-.Hero h2
+.Content
 {
     margin-top: 100px;
     text-align: center;
     font-size: 50px;
-  
 
 }
 
-.Hero img
+.content img
 {
     height: 800px;
     width:500px;
 
 }
 
-.Ordering ul li
+.emp ul
 
 {
     font-size: 50px;
@@ -76,18 +72,18 @@ header
     text-decoration: none;	
 }
 
-.Countries 
+.peer
+{
+    margin-top: 100px;
+    background-color: grey;	
+    font-family: cursive;
+}
+
+.peer h1
 {
 	font-family: cursive;
 	font-size: 50px;
-	background-color: grey;
-	margin-top: 70px;
 
-}
-.Countries h2
-{
-
-	font-size: 50px;
 }
 
 .cuisene 
@@ -123,7 +119,7 @@ header
 .connect ul li
 {
 
-    font-size: 20px;
+    font-size: 40px;
 	
 	font-family: cursive;
 }
@@ -153,7 +149,7 @@ header
 	font-size: 20px;
 
 }
-.strength h2
+.strength h1
 {
 
     margin-top: 100px;
@@ -165,9 +161,9 @@ header
 
 }
 
-.strength h5
+.strength h2
 {
-    font-size: 50px;
+    font-size: 60px;
     font-family: cursive;
     text-align: center;
     margin-top: 80px;
@@ -199,10 +195,3 @@ header
 	background-color:#FFEBCD;
 
 }
-
-@-webkit-keyframes example {
-    f0%   {background-color: red;}
-    25%  {background-color: yellow;}
-    50%  {background-color: grey;}
-    100% {background-color: orange;}
-}	
