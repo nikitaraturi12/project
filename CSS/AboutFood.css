@@ -5,96 +5,88 @@
 <meta charset="utf-8" />
 <style>
 
-/*nav li
+
+.bodycontainer
+
 {
 
-	display: inline;
-		text-decoration: none;
-		font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    color: black;
 
-}*/
-.bodycontainer{
- background-color: #f2ffe6;
-
- font-family: 'Lato', sans-serif;
- color: black;
 
 }
-.container
+
+nav li
 {
-	background-color: #e6faff;
-}
-nav li{
 	display: inline;
 	margin: 10px;
 	font-size: 16px;
 	padding-right: 40px;
 	
-	}
-.bodycontainer a:hover{
-		text-decoration: none;	
-		font-size: 30px;
+}
+
+.bodycontainer a:hover
+{
+    text-decoration: none;	
+	font-size: 30px;
 	     
-	}
-header p{	
-		font-size: 16px;
-		text-decoration: none;
-		margin-top: 10px;	
+}
+
+header p
+{	
+	font-size: 16px;
+	text-decoration: none;
+	margin-top: 10px;	
 		
-	}
-	header  {	
-		background-color: red;
-		position: fixed;
-		font-family: 'Lato', sans-serif;
-
-	}
-	.wrapper header h1{
-		margin-top: 10px;
-		font-family: cursive;
-		font-size: 30px;	
-		
-	}
-
-
-
+}
 	
+header  
+{	
+	background-color: red;
+	position: fixed;
+	font-family: 'Lato', sans-serif;
+
+}
+
+.wrapper header h1
+{
+	margin-top: 10px;
+	font-family: cursive;
+	font-size: 30px;	
+		
+}
 
 .Content
 {
-margin-top: 100px;
-text-align: center;
-
-font-size: 50px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 50px;
 
 }
 
 .content img
 {
- height: 800px;
- width:500px;
+    height: 800px;
+    width:500px;
 
 }
 
 .emp ul
 
 {
-
-
-font-size: 50px;
-font-family: cursive;
-display: inline;
-text-decoration: none;	
-margin-top: 200px;
-
-
+    font-size: 50px;
+    font-family: cursive;
+    display: inline;
+    text-decoration: none;	
 }
 
 .peer
 {
-margin-top: 100px;
-background-color: grey;	
-font-family: cursive;
+    margin-top: 100px;
+    background-color: grey;	
+    font-family: cursive;
 }
+
 .peer h1
 {
 	font-family: cursive;
@@ -104,15 +96,15 @@ font-family: cursive;
 
 .cuisene 
 {
-margin-top: 100px;
-background-color: #666;
+    margin-top: 100px;
+    background-color: #666;
 
 }
 
 .cuisene ul li img
 {
-	width:300px;
-height:200px;
+    width:300px;
+    height:200px;
 
 }
 
@@ -124,7 +116,7 @@ height:200px;
 
 .connect 
 {
-	background-color: grey;
+	background-color: red;
 	margin-top:50px;
     color: white;
     text-decoration: none;
@@ -135,8 +127,8 @@ height:200px;
 .connect ul li
 {
 
-	font-size: 20px;
-	padding-left:40px;
+    font-size: 20px;
+	
 	font-family: cursive;
 }
 
@@ -155,25 +147,25 @@ height:200px;
 	
 }
 
-.strenghth 
+.strength 
 {
 
 
 	margin-top: 60px;
-	background-color: grey;	
+	background-color: #FFDEAD;	
 	font-family: 'Lato', sans-serif;
 	font-size: 20px;
 
 }
-.strenghth h1{
+.strength h1
+{
 
-margin-top: 100px;
-text-align: center;
-		
-font-size: 60px;
-background-color: grey
-font-family: 'Lato', sans-serif;
-font-family: cursive;
+    margin-top: 100px;
+    text-align: center;
+	font-size: 60px;
+	background-color:#FFDEAD
+    font-family:'Lato', sans-serif;
+    font-family: cursive;
 
 }
 .strenghth img
@@ -185,16 +177,20 @@ font-family: cursive;
 .goodfood
 {
 
-	background-color: pink;
-}
-.fastdelivery
-{
-	background-color: red;
+	background-color: #FFF8DC;
 
 }
+
+.fastdelivery
+{
+	background-color: #FFEBCD;
+
+}
+
 
 .happycustomer
 {
 
-	background-color: yellow;
+	background-color:#FFF8DC;
+
 }
