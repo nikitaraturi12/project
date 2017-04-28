@@ -2,8 +2,9 @@
 
 {
 
-    font-family: 'Lato', sans-serif;
+    font-family: 'Indie+Flower', sans-serif;
     color: black	;
+    background-color: #EEE8AA;	
 
 
 }
@@ -14,7 +15,7 @@ nav li
 	margin: 10px;
 	font-size: 16px;
 	padding-right: 40px;
-	
+
 }
 
 .bodycontainer a:hover
@@ -34,7 +35,7 @@ header p
 	
 header  
 {	
-	background-color: red;
+	background-color: #F4A460	;
 	position: fixed;
 	font-family: 'Lato', sans-serif;
   -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
@@ -51,9 +52,19 @@ header
 		
 }
 
+.wrapper img
+
+{
+height: 70px;
+width:00px;
+margin-top: 10px;
+
+
+}
+
 .Hero h2
 {
-    margin-top: 100px;
+    margin-top: 150px;
     text-align: center;
     font-size: 50px;
   
@@ -63,9 +74,11 @@ header
 .Hero img
 {
     height: 800px;
-    width:500px;
+    width:px;
 
 }
+
+
 
 .Ordering ul li
 
@@ -73,14 +86,15 @@ header
     font-size: 50px;
     font-family: cursive;
     display: inline;
-    text-decoration: none;	
+    text-decoration: none;
+    
 }
 
 .Countries 
 {
 	font-family: cursive;
 	font-size: 50px;
-	background-color: grey;
+	background-color: #F0E68C;
 	margin-top: 70px;
 
 }
@@ -88,17 +102,18 @@ header
 {
 
 	font-size: 50px;
+	text-align: center;
 }
 
 .cuisene 
 {
-    margin-top: 100px;
+    margin-top: 50px;
     background-color: #666;
 
 }
 
 .cuisene ul li img
-{
+	{
     width:300px;
     height:200px;
 
@@ -112,11 +127,12 @@ header
 
 .connect 
 {
-	background-color: red;
+	background-color: #F4A460;
 	margin-top:50px;
     color: white;
     text-decoration: none;
     font-family: cursive;
+    overflow: hidden;
 
 }
 
@@ -133,6 +149,7 @@ header
 
 	font-size: 30px;
 	font-family: 'Lobster';
+
 }
 
 .wrapper
@@ -176,7 +193,7 @@ header
 .strenghth img
 {
 	height: 200px;
-	width: 800px;	
+	width: 800px	;	
 }
 
 .goodfood
@@ -201,8 +218,20 @@ header
 }
 
 @-webkit-keyframes example {
-    f0%   {background-color: red;}
+    0%   {background-color: red;}
     25%  {background-color: yellow;}
     50%  {background-color: grey;}
     100% {background-color: orange;}
 }	
+
+.peer
+{
+
+	border: 7px solid black;
+	
+}
+
+a:hover
+{
+	text-decoration: none;
+}
